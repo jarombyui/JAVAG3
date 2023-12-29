@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37879f81-757c-4c8a-812b-5a4eaaefd60d" name="Changes" comment="git commit -m &quot;first commit tarea semana 1 javag3&quot;">
-      <change afterPath="$PROJECT_DIR$/src/TareaSemana1/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TareaSemana1/Ejercicio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio2Loops.executor": "Run",
+    "Application.Ejercicio3.executor": "Run",
     "Application.Ejercicio3_3Loops.executor": "Run",
     "Application.Ejercicio3_4Loops.executor": "Debug",
     "Application.Ejercicio3_loops.executor": "Run",
@@ -101,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703821845039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git commit -m &quot;first commit tarea semana 1 javag3&quot;">
+      <option name="closed" value="true" />
+      <created>1703822836042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703822836042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
