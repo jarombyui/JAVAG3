@@ -1,8 +1,6 @@
-package Solucion_ejercicio_lunes;
+package Solucion_ejercicio_lunes18_12;
 
-import java.util.RandomAccess;
-
-public class ejercicio1 {
+public class Ejercicio1RadioCirculo {
 
     public static void main(String[] args){
 

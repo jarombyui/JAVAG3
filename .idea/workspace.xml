@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37879f81-757c-4c8a-812b-5a4eaaefd60d" name="Changes" comment="git commit -m &quot;first commit tarea semana 1 javag3&quot;">
-      <change afterPath="$PROJECT_DIR$/src/TareaSemana1/Ejercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Semana1Viernes/ArrayEjemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana1Viernes/ArrayEjemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/Ejercicio1RadioCirculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/ejercicio2Temperaratura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +38,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayEjemplo.executor": "Run",
+    "Application.Ejemplo2Arrays.executor": "Debug",
     "Application.EjemploCond.executor": "Debug",
     "Application.EjemploLoops.executor": "Run",
     "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio1RadioCirculo.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "Application.Ejercicio2Loops.executor": "Run",
     "Application.Ejercicio3.executor": "Run",
+    "Application.Ejercicio3Volumen.executor": "Run",
+    "Application.Ejercicio3VolumenEsfera.executor": "Run",
     "Application.Ejercicio3_3Loops.executor": "Run",
     "Application.Ejercicio3_4Loops.executor": "Debug",
     "Application.Ejercicio3_loops.executor": "Run",
     "Application.Ejercicio4.executor": "Run",
     "Application.Ejercicio5.executor": "Run",
     "Application.Ejercicio5Cond.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
     "Application.Ejercicio6Cond.executor": "Run",
     "Application.EjercicioLoops3_1.executor": "Run",
     "Application.Ejercicio_3_1_Metodo_1.executor": "Run",
@@ -55,6 +64,7 @@
     "Application.StrEjemplos.executor": "Debug",
     "Application.ejercicio1.executor": "Run",
     "Application.ejercicio2.executor": "Run",
+    "Application.ejercicio2Temperaratura.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,6 +77,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-11.0.21-corretto-11.0.21-249ae16d76d6-d0fa0211" />
+        <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
       </set>
     </attachedChunks>
   </component>
@@ -127,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703824821001</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="git commit -m &quot;first commit tarea semana 1 javag3&quot;">
+      <option name="closed" value="true" />
+      <created>1703825462107</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703825462107</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +187,11 @@
           <url>file://$PROJECT_DIR$/src/Semana1Viernes/RecorriendoArray.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Semana1Viernes/Ejemplo2Arrays.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
