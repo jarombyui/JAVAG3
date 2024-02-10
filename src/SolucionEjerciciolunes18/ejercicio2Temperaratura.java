@@ -1,4 +1,4 @@
-package Solucion_ejercicio_lunes18_12;
+package SolucionEjerciciolunes18;
 
 public class ejercicio2Temperaratura {
     public static void main(String[] args){

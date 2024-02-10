@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37879f81-757c-4c8a-812b-5a4eaaefd60d" name="Changes" comment="git commit -m &quot;first commit tarea semana 1 javag3&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolucionEjerciciolunes18/ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SolucionEjerciciolunes18/ejercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionales/ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/condicionales/ejercicio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semana1Viernes/ArrayEjemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semana1Viernes/ArrayEjemplo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/Ejercicio1RadioCirculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes/ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/ejercicio2Temperaratura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/Ejercicio1RadioCirculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolucionEjerciciolunes18/Ejercicio1RadioCirculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/ejercicio2Temperaratura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolucionEjerciciolunes18/ejercicio2Temperaratura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solucion_ejercicio_lunes18_12/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolucionEjerciciolunes18/ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionales/EjemploCond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionales/EjemploCond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionales/Ejercicio6Cond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/condicionales/Ejercicio6Cond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionales/ejercicio3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -35,48 +44,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayEjemplo.executor": "Run",
-    "Application.Ejemplo2Arrays.executor": "Debug",
-    "Application.EjemploCond.executor": "Debug",
-    "Application.EjemploLoops.executor": "Run",
-    "Application.Ejercicio1.executor": "Run",
-    "Application.Ejercicio1RadioCirculo.executor": "Run",
-    "Application.Ejercicio2.executor": "Run",
-    "Application.Ejercicio2Loops.executor": "Run",
-    "Application.Ejercicio3.executor": "Run",
-    "Application.Ejercicio3Volumen.executor": "Run",
-    "Application.Ejercicio3VolumenEsfera.executor": "Run",
-    "Application.Ejercicio3_3Loops.executor": "Run",
-    "Application.Ejercicio3_4Loops.executor": "Debug",
-    "Application.Ejercicio3_loops.executor": "Run",
-    "Application.Ejercicio4.executor": "Run",
-    "Application.Ejercicio5.executor": "Run",
-    "Application.Ejercicio5Cond.executor": "Run",
-    "Application.Ejercicio6.executor": "Run",
-    "Application.Ejercicio6Cond.executor": "Run",
-    "Application.EjercicioLoops3_1.executor": "Run",
-    "Application.Ejercicio_3_1_Metodo_1.executor": "Run",
-    "Application.Ejercicio_3_1_Metodo_2.executor": "Run",
-    "Application.LoopsEjercicio8.executor": "Run",
-    "Application.RecorriendoArray.executor": "Run",
-    "Application.StrEjemplos.executor": "Debug",
-    "Application.ejercicio1.executor": "Run",
-    "Application.ejercicio2.executor": "Run",
-    "Application.ejercicio2Temperaratura.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/melvi/IdeaProjects/miercoles/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayEjemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo2Arrays.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EjemploCond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio1RadioCirculo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio2Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3Volumen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3VolumenEsfera.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3_3Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3_4Loops.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Ejercicio3_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio5Cond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio6Cond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioLoops3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio_3_1_Metodo_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio_3_1_Metodo_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopsEjercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecorriendoArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrEjemplos.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.VerificarAnioBisiesto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio2Temperaratura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ejercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/melvi/IdeaProjects/miercoles/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-11.0.21-corretto-11.0.21-249ae16d76d6-d0fa0211" />
         <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
       </set>
     </attachedChunks>
@@ -146,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703825462107</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="git commit -m &quot;first commit tarea semana 1 javag3&quot;">
+      <option name="closed" value="true" />
+      <created>1704148983011</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704148983013</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

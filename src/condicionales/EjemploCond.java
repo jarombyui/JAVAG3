@@ -14,6 +14,7 @@ public class EjemploCond {
             System.out.println("Num2 es menor");
         }
 
+
         // dado un numero, verificar si es par o no es par
         int numero = 10;
         if(numero%2==0)

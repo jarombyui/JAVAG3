@@ -19,7 +19,7 @@ public class Ejercicio6Cond {
         System.out.println(notaFis);
         System.out.println(notaFis);
 
-        /*here th three (3) conditions must be true to accomplish the condition*/
+        /*here the three (3) conditions must be true to accomplish the condition*/
         if((notaMat>=65 && notaFis>=55 && notaQui>=50) || (notaFis+ notaMat)>=140)
         {
             System.out.println("El alumno ingreso");
